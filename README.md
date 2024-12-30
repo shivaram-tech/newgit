@@ -1,2 +1,2 @@
 # newgit
-Author: shivaram
+Author: shivaram-tech
